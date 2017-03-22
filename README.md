@@ -20,4 +20,5 @@ double funf(int x,double y1,double y2)
 	return(f);
 }
 ```
+![](http://on1loo82k.bkt.clouddn.com/lstm.svg)
 
