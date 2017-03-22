@@ -22,3 +22,4 @@ double funf(int x,double y1,double y2)
 ```
 ![](http://on1loo82k.bkt.clouddn.com/lstm.svg)
 
+![](http://on7yq9in2.bkt.clouddn.com/homework02_1.jpg)
