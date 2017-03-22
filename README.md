@@ -1,6 +1,6 @@
 # homework1
-RK4
-
+## RK4
+* my code 
 ```
 #include <stdio.h>
 #include <stdlib.h>
